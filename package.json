@@ -4,7 +4,7 @@
   "description": "Server for Gadget Kart application",
   "main": "server.js",
   "scripts": {
-	"start": "node server.js",
+	"start": "node server.js"
   },
   "author": "Anikendra Datta",
   "license": "ISC",
