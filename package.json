@@ -1,0 +1,14 @@
+{
+  "name": "gadget-kart-server",
+  "version": "1.0.0",
+  "description": "Server for Gadget Kart application",
+  "main": "server.js",
+  "scripts": {
+	"start": "node server.js",
+  },
+  "author": "Anikendra Datta",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
